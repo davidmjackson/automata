@@ -1,0 +1,4 @@
+{
+  "godot_tools.editor_path": "D:\\Development\\GoDot\\Godot_v4.5.1-stable_win64.exe",
+  "godot_tools.editor_args": "--goto {file}:{line}:{col}"
+}

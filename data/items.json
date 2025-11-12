@@ -1,0 +1,7 @@
+{
+  "iron_ore": { "id": "iron_ore", "name": "Iron Ore", "stack": 100 },
+  "iron_ingot": { "id": "iron_ingot", "name": "Iron Ingot", "stack": 100 },
+  "coal": { "id": "coal", "name": "Coal", "stack": 100 },
+  "plate": { "id": "plate", "name": "Iron Plate", "stack": 100 },
+  "wire": { "id": "wire", "name": "Wire", "stack": 200 }
+}

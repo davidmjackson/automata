@@ -1,0 +1,8 @@
+{
+  "miner_v1": { "id": "miner_v1", "power": 2.0 },
+  "smelter_v1": { "id": "smelter_v1", "power": 2.0 },
+  "storage_small": { "id": "storage_small" },
+  "belt_t1": { "id": "belt_t1" },
+  "solar_panel": { "id": "solar_panel", "power": -5.0 },
+  "battery_bank": { "id": "battery_bank" }
+}

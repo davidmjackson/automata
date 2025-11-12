@@ -1,0 +1,8 @@
+{
+  "splitter": {
+    "id": "splitter",
+    "name": "Splitter",
+    "cost": { "iron_ingot": 50 },
+    "time": 60.0
+  }
+}

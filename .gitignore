@@ -1,0 +1,21 @@
+# Godot 4 project ignores
+.godot/
+.import/
+
+# If ever using C#/.NET builds
+.mono/
+**/mono_crash.*.json
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+
+# Logs / temp
+*.log
+*.tmp
+*.temp
+
+# Exports/build outputs (adjust if you keep them elsewhere)
+export/
+build/
+bin/

@@ -1,0 +1,25 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://scripts/ShipUI.gd" id="1"]
+
+[node name="ShipUI" type="Control"]
+script = ExtResource("1")
+
+[node name="Tabs" type="TabContainer" parent="."]
+offset_right = 800.0
+offset_bottom = 600.0
+
+[node name="Overview" type="Control" parent="Tabs"]
+
+[node name="Map" type="Control" parent="Tabs"]
+
+[node name="Robots" type="Control" parent="Tabs"]
+
+[node name="Factory" type="Control" parent="Tabs"]
+
+[node name="Research" type="Control" parent="Tabs"]
+
+[node name="Power" type="Control" parent="Tabs"]
+
+[node name="Alerts" type="Control" parent="Tabs"]
+
